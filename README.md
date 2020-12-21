@@ -21,7 +21,7 @@ doesn't run in to any permission errors.
 In order to work, this program needs
 access to reading and changing files wich
 on some computers are not allowed by a
-"non-trusted" program. Therefor we use
+"non-trusted" program. Therefore we use
 PowerShell, that is a trusted program, to
 run the main program. If you have any
 further questions, feel free to ask me at
@@ -31,6 +31,7 @@ down below. Thanks for using my software!
 -----------------------
 
 Discord: Limmelime#2955
+
 Instagram: limmelime
 
 -----------------------
