@@ -24,7 +24,7 @@ def main():
 	def options():
 		try:
 			print("Open text document and enter the text   0")
-			print("Change paste delay                      1")
+			print("Change delay before pasting             1")
 			print("Read text document and initiate TEXAM   2")
 			print("Close and exit TEXAM                    3")
 			print("License and user agreement              4")
